@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 I wanted to learn the basics of web design and Git Hub, as well as aquire the neccessary software, to help prepare me for my upcoming coding bootcamp course. I built this website as a guide to help me along the way and to provide me with practice. This prework page will give me a quick, structured place to find my prework notes as I progress, and will offer a good sandbox for me to practice my skills. Through making this site I have learned the basics of Git, Git Hub, HTML, CSS, and Javascript.
 
 ## Installation
